@@ -35,6 +35,6 @@
 
 ## Arithmetic and Counters
 
-| Chip                                   | Description
-| -------------------------------------- | -------------------------------------------
-| 
+| Chip   | Description
+| ------ | -------------------------------------------
+| 7485   | 4-Bit Magnitude Comparator
