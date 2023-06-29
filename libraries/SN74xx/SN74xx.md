@@ -1,6 +1,6 @@
 # SN 74xx
 
-[Library File](SN 74xx.zip)
+[Library File](SN 74xx.acl)
 
 ![](SN74xx.png)
 
