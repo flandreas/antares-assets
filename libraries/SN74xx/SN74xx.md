@@ -1,6 +1,6 @@
 # SN 74xx
 
-[Library File](SN 74xx.acl)
+[Library File](https://github.com/flandreas/antares-assets/blob/main/libraries/SN74xx/SN74xx.acl)
 
 ![](SN74xx.png)
 
