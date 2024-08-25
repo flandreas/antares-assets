@@ -31,13 +31,29 @@
 
 ## Encoders and Decoders
 
-| Chip | Description                          |
-|------|--------------------------------------|
-| 7442 | 4-Bit BCD to 10-Line Decimal Decoder |
+| Chip  | Description                          |
+|-------|--------------------------------------|
+| 7442  | 4-Bit BCD to 10-Line Decimal Decoder |
+| 74138 | 3-8 Decoder (inverted)               |
 
 ## Arithmetic and Counters
 
-| Chip  | Description                             |
-|-------|-----------------------------------------|
-| 7485  | 4-Bit Magnitude Comparator              |
-| 74283 | 4-Bit Binary Full Adder with Fast Carry |
+| Chip  | Description                                 |
+|-------|---------------------------------------------|
+| 7485  | 4-Bit Magnitude Comparator                  |
+| 74161 | Synchronous 4-Bit counter with direct clear |
+| 74181 | 4-Bit ALU                                   |
+| 74283 | 4-Bit Binary Full Adder with Fast Carry     |
+
+## Registers
+
+| Chip  | Description                                                 |
+|-------|-------------------------------------------------------------|
+| 74373 | Octal D-type latches with tri-state output                  |
+| 74574 | Octal edge-triggered D-type flip-flop with tri-state output |
+
+## Misc
+
+| Chip  | Description                                 |
+|-------|---------------------------------------------|
+| 74245 | Octal bus transceiver with tri-state output |

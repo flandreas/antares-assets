@@ -26,6 +26,12 @@ Download the ZIP file from the asset description page and import it into your ru
 * **Libraries**: Importing libraries will be implemented with issue #215 in one of the next Antares 
   releases.
 
+**_NOTE:_** All Antares projects and libraries have an 'owner' user. Only the owner can edit circuits in the project or library. After you've imported a project or library, you can overwrite toe owner in order to edit circuits:
+- Open the project or library
+- Display "Properties..." by right-clicking on the project or library in the explorer tree
+- Select "Owned by me" in the properties dialog
+- Re-open the circuit you want to edit
+
 ## How to contribute
 
 Fork this GitHub project, add an asset you have previously exported from Antares, and create a pull request. Users with write permission will quickly review your new assets and commit your change to the main branch.
