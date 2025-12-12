@@ -20,6 +20,7 @@
 | 7430 | 8-Input NAND Gate            |
 | 7432 | Quadruple 2-Input OR Gates   |
 | 7451 | 2 AND-OR-Invert Gates        |
+| 7486 | Quadruple 2-Input XOR Gates  |
 
 ## Flip-Flops and Latches
 
@@ -28,6 +29,7 @@
 | 7473 | Dual JK Flip-Flop with Clear       |
 | 7474 | Dual D Flip-Flop with Preset/Clear |
 | 7475 | Quad D Latch                       |
+| 7476 | Dual JK Flip-Flop with Reset/Clear |
 
 ## Encoders and Decoders
 
